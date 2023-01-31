@@ -41,7 +41,12 @@ Here are my anotations, hope it helps u somehow :)
 
 ## 💖 Many tacos! 🌮
 
-If you have any feedback, please reach out to me at 
+Thank you so much for your attention. Here are my social links:
+
+- [codepen](https://codepen.io/bridgetocross)
+- [behance](https://behance.net/bridgetocross)
+- [linkedin](https://linkedin.com/in/btrz)
+- [medium](https://medium.com/@bridgetocross)
 
 
 🔝 [back to the top](#My-github-page)
